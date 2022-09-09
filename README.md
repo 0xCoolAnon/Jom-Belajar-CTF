@@ -1,15 +1,11 @@
 # Jom-Belajar-CTF
 
-What is CTF?
+<h2 align="center">
+Choose your level :
+</h2>
 
-Challenges ?
+<p align="center">  
+Beginner
 
-Where do I start ?
-
-Resources
-
-Tools
-
-Practice
-
-Conclusion
+Intermediate
+</p>
