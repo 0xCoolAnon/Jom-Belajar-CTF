@@ -5,7 +5,6 @@ Choose your level :
 </h2>
 
 <p align="center">  
-Beginner
-
-Intermediate
+[Beginner]()
+[Intermediate]()
 </p>
