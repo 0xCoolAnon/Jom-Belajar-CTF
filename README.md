@@ -5,6 +5,6 @@
 </p>
   
 <p align="center">  
-[Beginner]()
+> > :Button label=Beginner, url=https://github.com
 [Intermediate]()
 </p>
