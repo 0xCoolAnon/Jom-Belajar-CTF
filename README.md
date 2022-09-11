@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">    
-    <a href="https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/categories/beginner" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="beginner" width="40" height="24"/> </a>
-    <a href="https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/categories/advanced" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="advanced" width="40" height="30"/> </a>         
+    <a href="https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/categories/beginner" target="_blank"> <img src="https://raw.githubusercontent.com/g3nj1z/Jom-Belajar-CTF/f6e557a674a94035debd96f8f40e3b5d55b1cb24/img/student-svgrepo-com.svg" alt="beginner" width="60" height="60"/> </a>
+    <a href="https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/categories/advanced" target="_blank"> <img src="https://raw.githubusercontent.com/g3nj1z/Jom-Belajar-CTF/f6e557a674a94035debd96f8f40e3b5d55b1cb24/img/advancedstudent-svgrepo-com.svg" alt="advanced" width="60" height="60"/> </a>         
 </p>
 
