@@ -6,12 +6,18 @@ Getting Started
 
 Step 1: Follow us on Instagram
 It allows you to stay up to date with our next project!
-    <a href="instagram" target="_blank"> <img src="https://raw.githubusercontent.com/g3nj1z/Jom-Belajar-CTF/9b155683483e435feb3ffe50cfcdf27a01d8f75f/img/icons8-instagram.svg" alt="instagram" width="160" height="160"/> </a>
 
+<p align="center">  
+    <a href="instagram" target="_blank"> <img src="https://raw.githubusercontent.com/g3nj1z/Jom-Belajar-CTF/9b155683483e435feb3ffe50cfcdf27a01d8f75f/img/icons8-instagram.svg" alt="instagram" width="160" height="160"/> </a>
+</p>
+    
 Step 2: Join our community on Telegram
 You'll earn titles for completing projects!
-    <a href="https://t.me/hibiscuslabcommunity" target="_blank"> <img src="https://raw.githubusercontent.com/g3nj1z/Jom-Belajar-CTF/9b155683483e435feb3ffe50cfcdf27a01d8f75f/img/icons8-telegram.svg" alt="telegram" width="160" height="160"/> </a>   
 
+<p align="center">  
+    <a href="https://t.me/hibiscuslabcommunity" target="_blank"> <img src="https://raw.githubusercontent.com/g3nj1z/Jom-Belajar-CTF/9b155683483e435feb3ffe50cfcdf27a01d8f75f/img/icons8-telegram.svg" alt="telegram" width="160" height="160"/> </a>   
+</p>
+    
 Click Here to Start
 
 <p align="center">    
