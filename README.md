@@ -6,5 +6,5 @@
 
 [Beginner](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/categories/beginner)
   
-[Intermediate](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/categories/advanced)
+[Advanced](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/categories/advanced)
 >
