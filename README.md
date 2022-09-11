@@ -19,5 +19,5 @@ You'll earn titles for completing projects!
 </p>
     
 
-![Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/blob/main/lesson/levels.md)
+[Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/blob/main/lesson/levels.md)
 
