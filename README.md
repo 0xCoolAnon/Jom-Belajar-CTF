@@ -3,6 +3,8 @@
 </p>    
     
 # What is CTF ?
+To learn hacking, CTFs are a great starting point. They call for a lot of time and effort, but the payoff is great, and you learn a lot. If you are unfamiliar with CTFs, this platform serves as a primer.
+
 Capture The Flag (sometimes abbreviated as "CTF") is a popular genre of cyber security games in which players compete to "capture" a virtual flag. Typically, there are two types of CTF: Jeopardy and Attack-defense.
 
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
