@@ -3,7 +3,7 @@
 </p>    
     
 # What is CTF ?
-blabla
+Capture The Flag (sometimes abbreviated as "CTF") is a popular genre of cyber security games in which players compete to "capture" a virtual flag. Typically, there are two types of CTF: Jeopardy and Attack-defense.
 
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
