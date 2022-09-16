@@ -7,5 +7,8 @@ To learn hacking, CTFs are a great starting point. They call for a lot of time a
 
 Capture The Flag (sometimes abbreviated as "CTF") is a popular genre of cyber security games in which players compete to "capture" a virtual flag. Typically, there are two types of CTF: Jeopardy and Attack-defense.
 
+# What is Jom Belajar CTF?
+A platform that use 20 levels which divide by beginner or advanced where you'll learn some basic web exploitaion, binary exploitation, forensic, reverse engineering, cryptography
+
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
