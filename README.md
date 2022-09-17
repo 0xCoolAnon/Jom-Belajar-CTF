@@ -3,7 +3,7 @@
 </p>    
 
 # Jom Belajar CTF
-A platform that use 20 levels which divide by beginner or advanced where you'll learn some basic web exploitaion, binary exploitation, forensic, reverse engineering, cryptography
+You can learn web exploitaion, binary exploitation, forensics, reverse engineering, and cryptography on a platform with 20 levels that are separated into beginner and advanced categories.
 
 # What is CTF ?
 To learn hacking, CTFs are a great starting point. They call for a lot of time and effort, but the payoff is great, and you learn a lot. If you are unfamiliar with CTFs, this platform serves as a primer.
