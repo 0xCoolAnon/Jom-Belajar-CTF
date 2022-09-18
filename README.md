@@ -8,7 +8,7 @@ An unique way to learn web exploitaion, binary exploitation, forensics, reverse 
 ## What do learners receive?
 • Unique perks/utilities for specific hacking activities.
 • Access to High Quality learning experiences
-• Ability to redeem title in Telegram/Discord groups.
+• Ability to redeem title in Telegram/Discord
 
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
