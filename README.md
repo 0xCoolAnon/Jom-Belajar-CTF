@@ -10,7 +10,7 @@ After months of preparation, and a couple of days, Jom Belajar CTF finally took 
 Jom Belajar CTF give opportunity to learn hacking skills in an engaging and fun environment by participating in a Capture the Flag competition. They are time-consuming and demanding, but they are extremely beneficial. This platform explains the basics of Capture the Flag for those who have never played the game before. Most Capture the Flag games fall into one of two categories: Jeopardy or Attack-defense.
 
 ## How many levels are there?
-Totally, there are 20 levels to complete. Web exploitaion, binary exploitation, forensics, reverse engineering, and cryptography are just some of the topics covered across both the beginner and advanced levels.
+Totally, there are 20 levels to complete. Web exploitation, binary exploitation, forensics, reverse engineering, and cryptography are just some of the topics covered across both the beginner and advanced levels.
 
 ## What do learners receive?
 - Unique perks/utilities for specific hacking activities.
