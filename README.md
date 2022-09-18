@@ -3,12 +3,12 @@
 </p>    
 
 # Jom Belajar CTF 🚩
-You can learn web exploitaion, binary exploitation, forensics, reverse engineering, and cryptography on a platform with 20 levels that are separated into beginner and advanced categories.
+An unique way to learn web exploitaion, binary exploitation, forensics, reverse engineering, and cryptography on a platform with 20 levels that are separated into beginner and advanced categories. In terms of learning hacking, CTFs are a great starting point. They call for a lot of time and effort, but the payoff is great, and you learn a lot. If you are unfamiliar with Capture-the-flag, this platfrom serves as a primer. Typically, there are two types of CTF: Jeopardy and Attack-defense.
 
-# What is CTF ?
-To learn hacking, CTFs are a great starting point. They call for a lot of time and effort, but the payoff is great, and you learn a lot. If you are unfamiliar with CTFs, this platform serves as a primer.
-
-Capture The Flag (sometimes abbreviated as "CTF") is a popular genre of cyber security games in which players compete to "capture" a virtual flag. Typically, there are two types of CTF: Jeopardy and Attack-defense.
+What do learners receive?
+• Unique perks/utilities for specific hacking activities.
+• Access to High Quality learning experiences
+• Ability to redeem title in Telegram/Discord groups.
 
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
