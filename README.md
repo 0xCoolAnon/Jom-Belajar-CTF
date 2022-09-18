@@ -13,9 +13,9 @@ Jom Belajar CTF is an unique platform to learning hacking, which CTFs are a grea
 There are 20 levels in total. Further, the levels are separated into beginner and advanced categories, which contains categories from web exploitaion, binary exploitation, forensics, reverse engineering, and cryptography.
 
 ## What do learners receive?
-• Unique perks/utilities for specific hacking activities.
-• Access to High Quality learning experiences
-• Ability to redeem title in Telegram/Discord
+- Unique perks/utilities for specific hacking activities.
+- Access to High Quality learning experiences
+- Ability to redeem title in Telegram/Discord
 
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
