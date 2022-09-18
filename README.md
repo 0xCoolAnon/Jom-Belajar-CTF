@@ -3,14 +3,14 @@
 </p>    
 
 # What is the Jom Belajar CTF 🚩 ?
-Announced under the name "Jom Belajar CTF" is a word from Malay which are Jom = Let's, Belajar = Learn, CTF = Capture the Flag.
+The term "Jom Belajar CTF" is an acronym for the Malay words "Jom" (meaning "let's"), "Belajar" (meaning "learn"), and "CTF" (meaning "capture the flag").
 
 After months of preparation, and a couple of days, Jom Belajar CTF finally took place at the end of November 2022 (expected).
 
-Jom Belajar CTF is an unique platform to learning hacking, which CTFs are a great starting point. They call for a lot of time and effort, but the payoff is great, and you learn a lot. If you are unfamiliar with Capture-the-flag, this platfrom serves as a primer. Typically, there are two types of CTF: Jeopardy and Attack-defense.
+Jom Belajar CTF give opportunity to learn hacking skills in an engaging and fun environment by participating in a Capture the Flag competition. They are time-consuming and demanding, but they are extremely beneficial. This platform explains the basics of Capture the Flag for those who have never played the game before. Most Capture the Flag games fall into one of two categories: Jeopardy or Attack-defense.
 
 ## How many levels are there?
-There are 20 levels in total. Further, the levels are separated into beginner and advanced categories, which contains categories from web exploitaion, binary exploitation, forensics, reverse engineering, and cryptography.
+Totally, there are 20 levels to complete. Web exploitaion, binary exploitation, forensics, reverse engineering, and cryptography are just some of the topics covered across both the beginner and advanced levels.
 
 ## What do learners receive?
 - Unique perks/utilities for specific hacking activities.
