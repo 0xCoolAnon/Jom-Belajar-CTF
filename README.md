@@ -16,6 +16,7 @@ There are 20 levels in total. Further, the levels are separated into beginner an
 - Unique perks/utilities for specific hacking activities.
 - Access to High Quality learning experiences
 - Ability to redeem title in Telegram/Discord
+- Top 99 will have ability to claim hibiscus lab NFT
 
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
