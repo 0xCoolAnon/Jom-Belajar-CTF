@@ -17,6 +17,7 @@ Totally, there are 20 levels to complete. Web exploitation, binary exploitation,
 |--|--|
 | General skills | Web Exploitation|
 | Cryptography | test |
+| Steganography | test |
 | Forensic | test |
 | Reverse Engineering | test |
 | Binary Exploitation | test |
