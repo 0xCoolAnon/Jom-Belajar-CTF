@@ -31,3 +31,13 @@ Totally, there are 20 levels to complete. Web exploitation, binary exploitation,
 ## Learn with us now !
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
+## Contributors ✨
+Thanks go to these wonderful [![All Contributors](https://img.shields.io/badge/2-red.svg?style=flat-square)](#contributors) peoples.
+
+<table>
+    <tr>
+      <td align="center"><a href="https://github.com/g3nj1z"><img src="https://avatars.githubusercontent.com/u/50061857?v=4=100" width="100px;" alt=""/><br /><sub><b>g3nj1z</b></sub></a></td>
+      <td align="center"><a href="https://github.com/supertsumu"><img src="https://avatars.githubusercontent.com/u/51882569?v=4=100" width="100px;" alt=""/><br /><sub><b>supertsumu</b></sub></a></td>
+      </tr>
+   </tbody>
+</table>
