@@ -13,13 +13,13 @@ Jom Belajar CTF give opportunity to learn hacking skills in an engaging and fun 
 Totally, there are 20 levels to complete. Web exploitation, binary exploitation, forensics, reverse engineering, and cryptography are just some of the topics covered across both the beginner and advanced levels.
 
 ## Hacker Roadmap To Get Started With Jom Belajar CTF 🚩
-Beginner | Advanced
-General skills | Web
-Web | test
-Crypto | test
-Forensic | test
-Reverse Engineering | test
-Binary | test
+| Beginner | Advanced |
+|--|--|
+| General skills | Web Exploitation|
+| Cryptography | test |
+| Forensic | test |
+| Reverse Engineering | test |
+| Binary Exploitation | test |
 
 ## What do learners receive?
 - Unique perks/utilities for specific hacking activities.
