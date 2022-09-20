@@ -28,6 +28,6 @@ Totally, there are 20 levels to complete. Web exploitation, binary exploitation,
 - Ability to redeem title in Telegram/Discord
 - Top 5 will have ability to claim upcoming hibiscus lab NFT
 
-## Join us now !
+## Learn with us now !
 [Click Here to Start](https://github.com/g3nj1z/Jom-Belajar-CTF/discussions/10)
 
