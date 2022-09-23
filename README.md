@@ -38,6 +38,7 @@ Thanks go to these wonderful [![All Contributors](https://img.shields.io/badge/2
     <tr>
       <td align="center"><a href="https://github.com/g3nj1z"><img src="https://avatars.githubusercontent.com/u/50061857?v=4=100" width="100px;" alt=""/><br /><sub><b>g3nj1z</b></sub></a></td>
       <td align="center"><a href="https://github.com/supertsumu"><img src="https://avatars.githubusercontent.com/u/51882569?v=4=100" width="100px;" alt=""/><br /><sub><b>supertsumu</b></sub></a></td>
+      <td align="center"><a href="https://github.com/0xCoolAnon"><img src="https://avatars.githubusercontent.com/u/110695357?s=400&v=4" width="100px;" alt=""/><br /><sub><b>supertsumu</b></sub></a></td>
       </tr>
    </tbody>
 </table>
